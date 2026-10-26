@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF 原版式翻译 Word"
+  short_description: "中文 PDF 翻译成英文 Word，重建可编辑表格并逐页核对版式"
+  default_prompt: "使用 $pdf-layout-translate-word 将指定文件夹的中文 PDF 翻译成英文 Word，保留原分页、表格合并结构和照片签章，表格需要可编辑。"
